@@ -1,4 +1,4 @@
-package com.chand.learning.feedapp.data
+package com.priya.learning.feedapp.data
 
 import android.os.Parcelable
 import com.google.gson.annotations.SerializedName

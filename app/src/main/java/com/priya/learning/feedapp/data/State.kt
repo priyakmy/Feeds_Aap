@@ -1,4 +1,4 @@
-package com.chand.learning.feedapp.data
+package com.priya.learning.feedapp.data
 
 enum class State {
     DONE, LOADING, ERROR

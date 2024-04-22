@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/feedsFragment"
-        android:name="com.chand.learning.feedapp.fragment.FeedsFragment"
+        android:name="com.priya.learning.feedapp.fragment.FeedsFragment"
         android:label="Feeds"
         tools:layout="@layout/fragment_feeds" >
         <action
@@ -16,10 +16,10 @@
     </fragment>
     <fragment
         android:id="@+id/feedDetailsFragment"
-        android:name="com.chand.learning.feedapp.fragment.FeedDetailsFragment"
+        android:name="com.priya.learning.feedapp.fragment.FeedDetailsFragment"
         android:label="FeedDetailsFragment" >
         <argument
             android:name="post"
-            app:argType="com.chand.learning.feedapp.data.Post" />
+            app:argType="com.priya.learning.feedapp.data.Post" />
     </fragment>
 </navigation>

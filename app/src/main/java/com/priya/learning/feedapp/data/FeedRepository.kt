@@ -1,10 +1,7 @@
-package com.chand.learning.feedapp.data
+package com.priya.learning.feedapp.data
 
-import android.util.Log
-import androidx.lifecycle.LiveData
 import androidx.paging.*
-import androidx.room.PrimaryKey
-import com.chand.learning.feedapp.api.ApiService
+import com.priya.learning.feedapp.api.ApiService
 import kotlinx.coroutines.flow.*
 
 class FeedRepository(

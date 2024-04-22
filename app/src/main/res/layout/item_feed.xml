@@ -9,7 +9,7 @@
     <data>
         <variable
             name="item"
-            type="com.chand.learning.feedapp.data.Post" />
+            type="com.priya.learning.feedapp.data.Post" />
         <variable
             name="clickListener"
             type="android.view.View.OnClickListener" />

@@ -1,4 +1,4 @@
-package com.chand.learning.newsapp.adapters
+package com.priya.learning.newsapp.adapters
 
 import android.text.format.DateFormat
 import android.view.View
@@ -7,8 +7,6 @@ import android.widget.TextView
 import androidx.databinding.BindingAdapter
 import com.bumptech.glide.Glide
 import com.bumptech.glide.load.resource.drawable.DrawableTransitionOptions
-import java.sql.Date
-import java.text.SimpleDateFormat
 import java.util.*
 
 @BindingAdapter("imageFromUrl")

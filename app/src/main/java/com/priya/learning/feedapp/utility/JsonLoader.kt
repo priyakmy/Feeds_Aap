@@ -1,6 +1,6 @@
-package com.chand.learning.feedapp.utility
+package com.priya.learning.feedapp.utility
 
-import com.chand.learning.feedapp.data.FeedResponse
+import com.priya.learning.feedapp.data.FeedResponse
 import com.google.gson.Gson
 
 object JsonLoader {

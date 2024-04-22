@@ -1,14 +1,11 @@
-package com.chand.learning.feedapp.viewModel
+package com.priya.learning.feedapp.viewModel
 
-import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel
-import androidx.lifecycle.asLiveData
 import androidx.lifecycle.viewModelScope
-import androidx.paging.DataSource
 import androidx.paging.PagingData
 import androidx.paging.cachedIn
-import com.chand.learning.feedapp.data.FeedRepository
-import com.chand.learning.feedapp.data.Post
+import com.priya.learning.feedapp.data.FeedRepository
+import com.priya.learning.feedapp.data.Post
 import kotlinx.coroutines.flow.*
 
 class FeedViewModel(

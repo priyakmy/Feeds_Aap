@@ -1,23 +1,17 @@
-package com.chand.learning.feedapp.adapters
+package com.priya.learning.feedapp.adapters
 
-import android.bluetooth.BluetoothDevice.ERROR
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.findNavController
 import androidx.navigation.fragment.FragmentNavigatorExtras
-import androidx.paging.PagedListAdapter
-import androidx.paging.PagingData
 import androidx.paging.PagingDataAdapter
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.RecyclerView
-import com.chand.learning.feedapp.data.Post
-import com.chand.learning.feedapp.data.State
-import com.chand.learning.feedapp.databinding.ItemFeedBinding
-import com.chand.learning.feedapp.databinding.ItemListFooterBinding
-import com.chand.learning.feedapp.fragment.FeedsFragment
-import com.chand.learning.feedapp.fragment.FeedsFragmentDirections
-import com.chand.learning.feedapp.utility.TRANSACTIONS
+import com.priya.learning.feedapp.data.Post
+import com.priya.learning.feedapp.databinding.ItemFeedBinding
+import com.priya.learning.feedapp.fragment.FeedsFragmentDirections
+import com.priya.learning.feedapp.utility.TRANSACTIONS
 import kotlinx.android.synthetic.main.item_list_footer.view.*
 
 

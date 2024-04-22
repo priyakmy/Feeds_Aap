@@ -1,10 +1,9 @@
-package com.chand.learning.feedapp.data
+package com.priya.learning.feedapp.data
 
 import android.content.Context
 import androidx.room.*
 import androidx.sqlite.db.SupportSQLiteDatabase
-import com.chand.learning.feedapp.utility.DATABASE_NAME
-import com.chand.learning.feedapp.utility.JsonLoader
+import com.priya.learning.feedapp.utility.DATABASE_NAME
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch

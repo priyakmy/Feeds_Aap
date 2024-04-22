@@ -1,4 +1,4 @@
-package com.chand.learning.feedapp
+package com.priya.learning.feedapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -1,4 +1,4 @@
-package com.chand.learning.feedapp.utility
+package com.priya.learning.feedapp.utility
 
 const val FIRST_PAGE = "59b3f0b0100000e30b236b7e"
 const val SECOND_PAGE = "59ac28a9100000ce0bf9c236"

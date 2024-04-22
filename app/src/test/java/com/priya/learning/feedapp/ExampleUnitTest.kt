@@ -1,4 +1,4 @@
-package com.chand.learning.feedapp
+package com.priya.learning.feedapp
 
 import org.junit.Test
 

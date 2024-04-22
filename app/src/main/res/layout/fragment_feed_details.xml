@@ -4,7 +4,7 @@
     <data>
         <variable
             name="item"
-            type="com.chand.learning.feedapp.data.Post" />
+            type="com.priya.learning.feedapp.data.Post" />
     </data>
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"

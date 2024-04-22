@@ -1,6 +1,6 @@
-package com.chand.learning.feedapp.api
+package com.priya.learning.feedapp.api
 
-import com.chand.learning.feedapp.data.FeedResponse
+import com.priya.learning.feedapp.data.FeedResponse
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 //import okhttp3.logging.HttpLoggingInterceptor

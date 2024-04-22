@@ -1,4 +1,4 @@
-package com.chand.learning.feedapp.api
+package com.priya.learning.feedapp.api
 
 import retrofit2.Response
 import java.io.IOException

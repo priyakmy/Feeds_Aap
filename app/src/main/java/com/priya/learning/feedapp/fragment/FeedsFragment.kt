@@ -1,4 +1,4 @@
-package com.chand.learning.feedapp.fragment
+package com.priya.learning.feedapp.fragment
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -9,16 +9,15 @@ import android.widget.Toast
 import androidx.core.view.doOnPreDraw
 import androidx.core.view.isVisible
 import androidx.fragment.app.viewModels
-import androidx.lifecycle.LiveData
 import androidx.lifecycle.lifecycleScope
 import androidx.paging.LoadState
-import com.chand.learning.feedapp.R
-import com.chand.learning.feedapp.adapters.FeedsLoadStateAdapter
-import com.chand.learning.feedapp.adapters.NewsAdapter
-import com.chand.learning.feedapp.databinding.BottomSheetFilterBinding
-import com.chand.learning.feedapp.databinding.FragmentFeedsBinding
-import com.chand.learning.feedapp.utility.Injector
-import com.chand.learning.feedapp.viewModel.FeedViewModel
+import com.priya.learning.feedapp.R
+import com.priya.learning.feedapp.adapters.FeedsLoadStateAdapter
+import com.priya.learning.feedapp.adapters.NewsAdapter
+import com.priya.learning.feedapp.databinding.BottomSheetFilterBinding
+import com.priya.learning.feedapp.databinding.FragmentFeedsBinding
+import com.priya.learning.feedapp.utility.Injector
+import com.priya.learning.feedapp.viewModel.FeedViewModel
 import com.google.android.material.bottomsheet.BottomSheetBehavior
 import com.google.android.material.bottomsheet.BottomSheetDialog
 import kotlinx.coroutines.ExperimentalCoroutinesApi

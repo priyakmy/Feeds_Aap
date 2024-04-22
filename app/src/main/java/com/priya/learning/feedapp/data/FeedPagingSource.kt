@@ -1,13 +1,13 @@
 
 
-package com.chand.learning.feedapp.data
+package com.priya.learning.feedapp.data
 
 import android.util.Log
 import androidx.paging.PagingSource
-import com.chand.learning.feedapp.utility.FIRST_PAGE
-import com.chand.learning.feedapp.utility.SECOND_PAGE
-import com.chand.learning.feedapp.api.ApiService
-import com.chand.learning.feedapp.utility.THIRD_PAGE
+import com.priya.learning.feedapp.utility.FIRST_PAGE
+import com.priya.learning.feedapp.utility.SECOND_PAGE
+import com.priya.learning.feedapp.api.ApiService
+import com.priya.learning.feedapp.utility.THIRD_PAGE
 import java.util.*
 
 private const val PAGE_INDEX = 1

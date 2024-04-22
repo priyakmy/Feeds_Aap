@@ -1,6 +1,6 @@
 
 
-package com.chand.learning.feedapp.adapters
+package com.priya.learning.feedapp.adapters
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
@@ -8,8 +8,8 @@ import androidx.core.view.isVisible
 import androidx.paging.LoadState
 import androidx.paging.LoadStateAdapter
 import androidx.recyclerview.widget.RecyclerView
-import com.chand.learning.feedapp.R
-import com.chand.learning.feedapp.databinding.ItemListFooterBinding
+import com.priya.learning.feedapp.R
+import com.priya.learning.feedapp.databinding.ItemListFooterBinding
 
 /**
  *  Adapter for header and footer on pagingation recyclerview in FeedsFragment

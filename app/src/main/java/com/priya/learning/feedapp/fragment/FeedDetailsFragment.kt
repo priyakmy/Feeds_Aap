@@ -1,4 +1,4 @@
-package com.chand.learning.feedapp.fragment
+package com.priya.learning.feedapp.fragment
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -6,9 +6,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.navArgs
-import com.chand.learning.feedapp.R
-import com.chand.learning.feedapp.databinding.FragmentFeedDetailsBinding
-import com.chand.learning.feedapp.utility.TRANSACTIONS
+import com.priya.learning.feedapp.databinding.FragmentFeedDetailsBinding
+import com.priya.learning.feedapp.utility.TRANSACTIONS
 import com.google.android.material.transition.MaterialContainerTransform
 
 /**

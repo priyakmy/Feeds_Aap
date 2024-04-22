@@ -1,4 +1,4 @@
-package com.chand.learning.feedapp.data
+package com.priya.learning.feedapp.data
 
 import androidx.room.TypeConverter
 import com.google.gson.Gson

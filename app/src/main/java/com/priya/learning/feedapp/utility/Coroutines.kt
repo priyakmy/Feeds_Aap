@@ -1,4 +1,4 @@
-package com.chand.learning.feedapp.utility
+package com.priya.learning.feedapp.utility
 
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
